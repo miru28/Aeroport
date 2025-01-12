@@ -1,0 +1,13 @@
+[ {
+  "nume" : "Amsterdam",
+  "zboruri" : [ {
+    "type" : "zborInternational",
+    "codZbor" : "2345",
+    "destinatie" : "Bucuresti",
+    "capacitate" : 234,
+    "taraDestinatie" : "Romania"
+  } ]
+}, {
+  "nume" : "Otopeni",
+  "zboruri" : [ ]
+} ]
